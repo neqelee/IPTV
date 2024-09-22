@@ -1,52 +1,52 @@
-#EXTM3U name="bj-unicom-iptv"
+#EXTM3U name="SCCMCC-iptv"
 
-#EXTINF:-1 group-title="中央频道" ,CCTV-1
+#EXTINF:-1 group-title="央视频道",CCTV-1
  http://192.168.9.1:8888/rtp/239.11.0.65:5140
-#EXTINF:-1,CCTV-2
+#EXTINF:-1 group-title="央视频道",CCTV-2
  http://192.168.9.1:8888/rtp/239.11.0.108:5140
-#EXTINF:-1,CCTV-3
+#EXTINF:-1 group-title="央视频道",CCTV-3
  http://192.168.9.1:8888/rtp/239.11.0.101:5140
-#EXTINF:-1,CCTV-4
+#EXTINF:-1 group-title="央视频道",CCTV-4
  http://192.168.9.1:8888/rtp/239.11.0.109:5140
-#EXTINF:-1,CCTV-5
+#EXTINF:-1 group-title="央视频道",CCTV-5
  http://192.168.9.1:8888/rtp/239.11.0.100:5140
-#EXTINF:-1,CCTV-6
+#EXTINF:-1 group-title="央视频道",CCTV-6
  http://192.168.9.1:8888/rtp/239.11.0.102:5140
-#EXTINF:-1,CCTV-7
+#EXTINF:-1 group-title="央视频道",CCTV-7
  http://192.168.9.1:8888/rtp/239.11.0.110:5140
-#EXTINF:-1,CCTV-8
+#EXTINF:-1 group-title="央视频道",CCTV-8
  http://192.168.9.1:8888/rtp/239.11.0.103:5140
-#EXTINF:-1,CCTV-9
+#EXTINF:-1 group-title="央视频道",CCTV-9
  http://192.168.9.1:8888/rtp/239.11.0.111:5140
-#EXTINF:-1,CCTV-10
+#EXTINF:-1 group-title="央视频道",CCTV-10
  http://192.168.9.1:8888/rtp/239.11.0.112:5140
-#EXTINF:-1,CCTV-11
+#EXTINF:-1 group-title="央视频道",CCTV-11
  http://192.168.9.1:8888/rtp/239.11.0.22:5140
-#EXTINF:-1,CCTV-12
+#EXTINF:-1 group-title="央视频道",CCTV-12
  http://192.168.9.1:8888/rtp/239.11.0.113:5140
-#EXTINF:-1,CCTV-13
+#EXTINF:-1 group-title="央视频道",CCTV-13
  http://192.168.9.1:8888/rtp/239.11.0.24:5140
-#EXTINF:-1,CCTV-14
+#EXTINF:-1 group-title="央视频道",CCTV-14
  http://192.168.9.1:8888/rtp/239.11.0.114:5140
-#EXTINF:-1,CCTV-15
+#EXTINF:-1 group-title="央视频道",CCTV-15
  http://192.168.9.1:8888/rtp/239.11.0.26:5140
-#EXTINF:-1,,CCTV-16
+#EXTINF:-1 group-title="央视频道",CCTV-16
  http://192.168.9.1:8888/rtp/239.10.0.187:5140
-#EXTINF:-1,CCTV-17
+#EXTINF:-1 group-title="央视频道",CCTV-17
  http://192.168.9.1:8888/rtp/239.11.0.107:5140
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV5+
  http://192.168.9.1:8888/rtp/239.11.0.241:5140
 
 
-#EXTINF:-1,CCTV-1
+#EXTINF:-1 group-title="央视频道",CCTV-1
  http://192.168.9.1:8888/rtp/239.10.0.151:5140
-#EXTINF:-1,CCTV-4
+#EXTINF:-1 group-title="央视频道",CCTV-4
  http://192.168.9.1:8888/rtp/239.10.0.172:5140
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV13
  http://192.168.9.1:8888/rtp/239.11.0.183:5140
-#EXTINF:-1,CCTV-14
+#EXTINF:-1 group-title="央视频道",CCTV-14
  http://192.168.9.1:8888/rtp/239.10.0.171:5140
-#EXTINF:-1,CCTV-16
+#EXTINF:-1 group-title="央视频道",CCTV-16
  http://192.168.9.1:8888/rtp/239.11.0.67:5140
 
 #EXTINF:-1,四川经济
