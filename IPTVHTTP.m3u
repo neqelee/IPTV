@@ -1,6 +1,6 @@
 #EXTM3U name="bj-unicom-iptv"
 
-#EXTINF:-1,CCTV-1
+#EXTINF:-1 group-title="中央频道" ,CCTV-1
  http://192.168.9.1:8888/rtp/239.11.0.65:5140
 #EXTINF:-1,CCTV-2
  http://192.168.9.1:8888/rtp/239.11.0.108:5140
